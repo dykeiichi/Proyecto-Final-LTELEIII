@@ -1,0 +1,24 @@
+*Implementar diseño jerarquico
+*Aplicacion de los best practice.
+*Segregacion de servicios 
+*Verificacion de inventario
+*Validacion y actualizacion de la topologia si lo consideran necesario
+
+
+Sugerir recomendaciones
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+EOL
+
+* = yes		Modelo				Existencia		EOL notificado en:
+
+   *    	WS-C2950-24			    6			https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2950-series-switches/prod_end-of-life_notice0900aecd806ea1da.html
+   *    	WS-C2960-24TC-L			    6			https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-series-switches/eos-eol-notice-c51-730121.html
+   *    	WS-C2950SX-24			    4			https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2950-series-switches/prod_end-of-life_notice0900aecd806ea1da.html
+   *    	WS-C2924-XL-EN-5P		    3			https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2900-series-switches/prod_end-of-life_notice0900aecd805d2d54.html
+   *    	WS-C2924C-XL-EN-5P		    3			https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2900-series-switches/prod_end-of-life_notice0900aecd805d2d54.html
+
+		Total				    22
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
