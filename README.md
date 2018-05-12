@@ -20,3 +20,18 @@ To-Do List
 3.- Buscar errores, o configuraciones mas optimas en lo que ya se lleva elaborado
 
 Tratar de usar la menor cantidad de componentes nuevos posibles
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+Preguntas que debemos repsonder
+
+1- ¿Que mejores practicas aplicaste para el proyecto?
+2- Modelo Jerarquico que se aplico
+3- Segregacuion del servicio de VLAN's
+4- ¿Que hicimos con el inventario?
+    a)EOL
+    b)Nombres
+5- ¿Que es lo que se hizo?
+    a)Vender la idea de lo que hicimos
+6- Resmuen ejecutivo        !!Importante¡¡
