@@ -7,7 +7,9 @@ En packet tracer no se pueden hacer stack, hasta donde pude investigar, por lo q
 
 De igual manera, ire dejando en este documento las cosas por hacer.
 
-To-Do List
+-----------------------------------------------------------------------------------------------------------------------
+
+# To-Do List
 
 1.- Buscar informacion sobre protocolos de routeo que podamos usar
     a)Buscar Protocolos
@@ -24,14 +26,32 @@ Tratar de usar la menor cantidad de componentes nuevos posibles
 
 ------------------------------------------------------------------------------------------------------------------------
 
-Preguntas que debemos repsonder
+# Preguntas que debemos repsonder
 
 1- ¿Que mejores practicas aplicaste para el proyecto?
+
 2- Modelo Jerarquico que se aplico
+    Modelo de 3 capas
+
 3- Segregacuion del servicio de VLAN's
+    vlan diferente para cada servicio y switch
+
 4- ¿Que hicimos con el inventario?
     a)EOL
     b)Nombres
+
 5- ¿Que es lo que se hizo?
     a)Vender la idea de lo que hicimos
+
 6- Resmuen ejecutivo        !!Importante¡¡
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# Puntos importantes
+
+Verificar las capacidades de cada dispopsitivo
+Comprobar la velocidad y distancia de cada cable
+Utilizar una vlan diferente para cada tipo de dato, y una diferente para cada switch
+
+-------------------------------------------------------------------------------------------------------------------------
+
