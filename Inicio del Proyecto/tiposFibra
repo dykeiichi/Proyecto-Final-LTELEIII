@@ -1,8 +1,10 @@
 Monomodo:
-
+  Solo un haz de luz , Sus principales ventajas (ancho de banda prácticamente ilimitado, bajo nivel de atenuación) 
+  aconsejan su utilización en aplicaciones WAN o Telecom (larga distancia).
 
 Multimodo:
-
+  banda ancha alta con velocidades altas (de 10 a 100 MB) (en Gigabit se alcanzan distancias de 275 m a 2-4 km)
 
 
 Plastica:
+  Utilizada habitualmente en instalaciones de control industrial en donde la característica buscada es la inmunidad a inducciones.
