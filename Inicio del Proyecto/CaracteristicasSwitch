@@ -70,9 +70,88 @@ MLD Snooping---No
 Soporte de RPS---Sí
 ********************************************************
 WS-C2924-XL-EN-5P-----**************
-
-***************************
+GENERAL
+Cantidad empaquetada (para especificaciones) 5
+Subtipo Fast Ethernet
+Puertos 24 x 10/100
+RAM 8 MB
+Memoria flash 4 MB de flash
+Indicadores de estado Estado del puerto, estado de colisión, potencia, enlace / actividad
+FabricanteCisco
+DISPOSITIVO DE PODER
+Voltaje requerido AC 100/240 V
+Margen de voltaje requerido ± 10%
+Voltaje nominal AC 120/230 V
+Frecuencia requerida 50/60 Hz
+Consumo de energía operacional 70 vatios
+Tipo fuente de alimentación interna
+REDES
+Tipo de cableado Ethernet 100Base-TX, Ethernet 10Base-T
+Subcategoría concentradores de red e interruptores
+Subtipo Fast Ethernet
+Factor de forma escritorio
+Tipo cambiar
+Tecnología de conectividad cableado
+Caracteristicas capacidad full duplex, manejable, monitoreo de red
+Cumplimiento de normas IEEE 802.3, IEEE 802.3u
+Puertos Cantidad 24
+Manejable Sí
+Protocolo de conmutación Ethernet
+Protocolo de gestión remota RMON, SNMP
+Modo de comunicación full-duplex, half-duplex
+CÁMARA
+Tamaño instalado 4 MB
+DIVERSO
+Kit de montaje en rack incluido
+Color negro
+Categoría de color negro
+CHASIS
+Dispositivos incorporados ninguna
+INTERFAZ PROPORCIONADA
+Género hembra
+Conector Cantidad 1, 24
+Cantidad 1, 24
+Comentarios administración
+PARÁMETROS AMBIENTALES
+Temperatura de funcionamiento mínima 32 ° F
+Temperatura de funcionamiento máxima 113 ° F
+Rango de humedad operativo 10 - 85%
+ENCABEZAMIENTO
+Marca Cisco
+Línea de producto Catalizador de Cisco
+Modelo 2924-XL
+Cantidad empaquetada 5
+Compatibilidad ordenador personal
+DETALLES DEL CABLE
+Tipo cable de red
+Cantidad incluida 1
+Factor de forma externo
+DIMENSIONES Y PESO
+Anchura 17.5 en
+Profundidad 9.8 in
+Altura 1.7 en
+Peso 7.05 lbs
+BAHÍAS DE EXPANSIÓN
+Tipo ninguna
+SOFTWARE
+Tipo Controladores y utilidades
+RANURAS DE EXPANSIÓN
+Tipo ninguna
+PUERTOS
+Tipo 10/100
+Cantidad 24
+RANURA REQUERIDA
+Tipo ninguna
+SERVICIO DE AYUDA
+Tipo garantia limitada de por vida
+DETALLES DE SERVICIO Y SOPORTE
+Tipo garantía limitada
+Servicio incluido piezas y mano de obra
+Ubicación llevar en
+Periodo total del contrato toda la vida
+GENERAL
+FabricanteCisco
 
 ****************************
-
-
+WS-C2924C-XL-EN 22-port 10/100 + 2-port 100Base-FX switch WS-C2950C-24 24-port 10/100 + 2-port
+100Base-FX switch 
