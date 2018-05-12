@@ -1,1 +1,78 @@
-2950
+WS-C2950-24-------********
+21 de octubre del 2008 end of life
+Conmutador de catalizador de 24 puertos, 10/100, solo estándar
+Característica	Cisco Catalyst 2950 con imagen estándar
+LLDP--No
+Clasificación de ACL---No
+QoS automáticp---No
+802.1x MAC-Auth Bypass---No
+802.1x Web-Auth---No
+servidor DHCP---No
+Marcos Jumbo---No
+Auto-MDIX---No
+TDR---No
+DHCP Snooping---No
+Flex Link---No
+Enlace STate Tracking---No
+SSH/SSL/SCP	Solo---SSH
+SNMPv3 Crypto---No
+Host IPv6---No
+MLD Snooping---No
+# de VLAN---128
+Soporte de RPS---Sí
+********************************
+
+WS-C2960-24TC-L-----*********
+31 de ctubre del 2014 end of line
+Catalyst 2960 24 10/100 + 2T / SFP LAN Base Image
+Característica	Cisco Catalyst 2960 con LAN Base
+LLDP---Sí (+ MED)
+Clasificación de ACL---Sí
+QoS automático---Sí
+802.1x MAC-Auth Bypass---Sí
+802.1x Web-Auth---Sí
+servidor DHCP---Sí
+Marcos Jumbo---Sí
+Auto-MDIX---Sí
+TDR---Sí
+DHCP Snooping---Sí
+Flex Link---Sí
+Enlace STate Tracking---Sí
+SSH / SSL / SCP---Sí
+SNMPv3 Crypto---Sí
+Host IPv6---Sí
+MLD Snooping----Sí
+# de VLAN---255
+Soporte de RPS---Sí
+******************************************
+
+WS-C2950SX-24----********
+21 de octubre de 2008
+24 puertos 10/100 con 2 puertos 1000BASE-SX, solo estándar
+Característica	Cisco Catalyst 2950 con imagen estándar
+LLDP--No
+Clasificación de ACL---No
+QoS automáticp---No
+802.1x MAC-Auth Bypass---No
+802.1x Web-Auth---No
+servidor DHCP---No
+Marcos Jumbo---No
+Auto-MDIX---No
+TDR---No
+DHCP Snooping---No
+Flex Link---No
+Enlace STate Tracking---No
+SSH/SSL/SCP	Solo---SSH
+SNMPv3 Crypto---No
+Host IPv6---No
+MLD Snooping---No
+# de VLAN---128
+Soporte de RPS---Sí
+********************************************************
+WS-C2924-XL-EN-5P-----**************
+
+***************************
+
+****************************
+
+
